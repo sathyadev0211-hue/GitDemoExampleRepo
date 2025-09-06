@@ -1,4 +1,9 @@
 Hi Team
 Hi Hello team
+<<<<<<< HEAD
 
 Edit in Notepad
+=======
+Hi Rp edit
+
+>>>>>>> 55ff0092e2f686922b29c3d2f8288aafc8a79747
